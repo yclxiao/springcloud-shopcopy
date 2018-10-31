@@ -1,4 +1,4 @@
-> 此项目从https://github.com/lrwinx/shop.git拷贝而来，方便重新改造
+> 此项目从https://github.com/lrwinx/shop.git拷贝而来，方便重新改造，如有侵权请联系我yclxiao@163.com
 
 # 项目简介
 
